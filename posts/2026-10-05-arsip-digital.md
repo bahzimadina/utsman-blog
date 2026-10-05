@@ -1,6 +1,6 @@
 ---
 title: Mengelola Arsip Digital Supaya Gampang Dicari
-date: 2026-10-06
+date: 2026-10-05
 slug: arsip-digital
 lang: id
 pair: arsip-digital

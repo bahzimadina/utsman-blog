@@ -1,6 +1,6 @@
 ---
 title: Keeping Digital Files Findable
-date: 2026-10-06
+date: 2026-10-05
 slug: keeping-digital-files-findable
 lang: en
 pair: arsip-digital
