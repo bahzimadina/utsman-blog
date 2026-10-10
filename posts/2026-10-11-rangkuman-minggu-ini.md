@@ -1,5 +1,5 @@
 ---
-title: Rangkuman Minggu Ini: Tiga Hal yang Paling Membantu
+title: "Rangkuman Minggu Ini: Tiga Hal yang Paling Membantu"
 date: 2026-10-11
 slug: rangkuman-minggu-ini
 lang: id
