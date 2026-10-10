@@ -1,5 +1,5 @@
 ---
-title: This Week in Review: Three Things That Helped Most
+title: "This Week in Review: Three Things That Helped Most"
 date: 2026-10-11
 slug: week-in-review-three-things
 lang: en
