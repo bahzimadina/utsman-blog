@@ -1,5 +1,5 @@
 ---
-title: Rangkuman Minggu Ieu: Tilu Hal Anu Paling Ngabantuan
+title: "Rangkuman Minggu Ieu: Tilu Hal Anu Paling Ngabantuan"
 date: 2026-10-11
 slug: rangkuman-minggu-ieu
 lang: su
