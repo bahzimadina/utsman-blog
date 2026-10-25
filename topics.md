@@ -12,7 +12,7 @@ atanapi isi percakapan. Topik téknis Utsman (Hermes Agent, LLM, MCP, kanal, oto
 - [ ] Ngatur arsip digital supaya gampang dipilarian
 - [ ] Nyiapkeun rapat anu teu lila teuing (jeung anu teu kaluar topik)
 - [ ] Nyieun daptar hadir jeung rekap kagiatan tanpa ribet
-- [ ] Nyusun jadwal kagiatan organisasi anu teu bentrok
+- [x] 2026-10-26 Nyusun jadwal kagiatan organisasi anu teu bentrok
 - [ ] Nyieun laporan kegiatan anu cukup hiji halaman
 - [ ] Ngokolakeun surat asup jeung kaluar
 - [ ] Nyieun pituduh tugas pikeun relawan anyar
