@@ -1,7 +1,7 @@
 ---
 title: "A Practical Guide to Quarterly Planning for Organizations"
 date: 2026-11-07
-slug: rencana-tiga-bulan-kegiatan
+slug: quarterly-plan-for-organizations
 lang: en
 pair: rencana-tiga-bulan-kegiatan
 excerpt: "A three-month plan gives organizations enough room to move without losing focus. Here is how to build one simply."
