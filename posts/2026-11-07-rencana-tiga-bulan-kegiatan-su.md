@@ -1,7 +1,7 @@
 ---
 title: "Cara Gampang Nyusun Rencana Tilu Bulan pikeun Kagiatan Organisasi"
 date: 2026-11-07
-slug: rencana-tiga-bulan-kegiatan
+slug: rencana-tilu-bulan-kagiatan
 lang: su
 pair: rencana-tiga-bulan-kegiatan
 excerpt: "Rencana tilu bulan ngajénan organisasi cukup rohangan pikeun dugi tapi teu leupas fokus. Ieu cara nyusunna sacara basajan."
